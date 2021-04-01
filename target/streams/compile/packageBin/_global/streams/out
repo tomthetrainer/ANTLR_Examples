@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/antlerexamples_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyCalculatorClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/MyCalculatorClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$ParenExprContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$ParenExprContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$AddOrSubContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$AddOrSubContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$ExprContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$ExprContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$FloatContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$FloatContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorBaseVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorBaseVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$LineContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$LineContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorBaseListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorBaseListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorLexer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorLexer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/CalculatorParser$MultOrDivContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/calculator/CalculatorParser$MultOrDivContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/MyCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomas.hanlon/intellij/AntlerExamples/target/scala-2.12/classes/MyCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
